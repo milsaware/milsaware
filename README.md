@@ -3,7 +3,7 @@ PHP and Javascript developer
 <a href="https://twitter.com/ozboware"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="ozboware twitter" width="40"/></a>
 &ensp;<a href="https://www.showwcase.com/ozboware"><img src="https://www.showwcase.com/favicon.png" title="Showwcase" alt="ozboware showwcase" width="30"/></a>
 &ensp;<a href="https://dev.to/ozboware"><img src="https://cdn.worldvectorlogo.com/logos/devto.svg" title="DEV" alt="ozboware dev.to" width="30"/></a>
-&ensp;<a href="https://ozboware.hashnode.dev/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" title="Hashnode" alt="ozboware hash node" width="30"/></a>
+&ensp;<a href="https://ozboware.co.uk">![website link](ww.png)</a>
 <br>
 
 ### Posts
@@ -14,3 +14,4 @@ PHP and Javascript developer
 
 ### Repositories
 - [Javascript Roulette](https://github.com/ozboware/javascript-roulette)
+
