@@ -21,4 +21,11 @@ PHP and Javascript developer
 - [Javascript Roulette](https://github.com/ozboware/javascript-roulette)
 
 ### CodePen demos
+**Javascript Roulette**
 [![Javascript Roulette link](https://res.cloudinary.com/practicaldev/image/fetch/s--5TI83wLR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wczd3640ejw96gmfumu6.png)](https://codepen.io/ozboware/pen/QWqEmgE)
+
+**Wordled**
+[![Javascript Wordled link](https://res.cloudinary.com/practicaldev/image/fetch/s--237ONCoC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uo600vi9hsj8o52a80pl.png)](https://codepen.io/ozboware/pen/QWOWyBZ)
+
+**Javascript Tic Tac Toe**
+[![Javascript Tic Tac Toe link](https://res.cloudinary.com/practicaldev/image/fetch/s--yxTscYl4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jr2jfagd5becbgru8v8z.png)](https://codepen.io/ozboware/pen/MWEYpXm)
