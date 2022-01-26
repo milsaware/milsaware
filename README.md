@@ -19,3 +19,6 @@ PHP and Javascript developer
 - [Javascript Wordle](https://github.com/ozboware/wordled)
 - [Javascript Rock Paper Scissors](https://github.com/ozboware/javascript-rock-paper-scissors)
 - [Javascript Roulette](https://github.com/ozboware/javascript-roulette)
+
+### CodePen demos
+[![Javascript Roulette link](https://res.cloudinary.com/practicaldev/image/fetch/s--5TI83wLR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wczd3640ejw96gmfumu6.png)](https://codepen.io/ozboware/pen/QWqEmgE)
