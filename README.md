@@ -28,8 +28,8 @@ PHP and Javascript developer
 
 **Wordled**
 
-[![Javascript Wordled link]((https://user-images.githubusercontent.com/95859352/151274983-fa02b1e2-435c-4e05-acd2-20baf1f0e2d2.png)](https://codepen.io/ozboware/pen/QWOWyBZ)
+[![Javascript Wordled link](https://user-images.githubusercontent.com/95859352/151274983-fa02b1e2-435c-4e05-acd2-20baf1f0e2d2.png)](https://codepen.io/ozboware/pen/QWOWyBZ)
 
 **Javascript Tic Tac Toe**
 
-[![Javascript Tic Tac Toe link]((https://user-images.githubusercontent.com/95859352/151275079-c835261e-d38a-4fb1-8b6a-9db821796a62.png)](https://codepen.io/ozboware/pen/MWEYpXm)
+[![Javascript Tic Tac Toe link](https://user-images.githubusercontent.com/95859352/151275079-c835261e-d38a-4fb1-8b6a-9db821796a62.png)](https://codepen.io/ozboware/pen/MWEYpXm)
