@@ -1,10 +1,8 @@
 PHP and Javascript developer
-
-<a href="https://twitter.com/ozboware"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="ozboware twitter" width="40"/></a>
-&ensp;<a href="https://www.showwcase.com/ozboware"><img src="https://www.showwcase.com/favicon.png" title="Showwcase" alt="ozboware showwcase" width="30"/></a>
-&ensp;<a href="https://dev.to/ozboware"><img src="https://cdn.worldvectorlogo.com/logos/devto.svg" title="DEV" alt="ozboware dev.to" width="30"/></a>
-&ensp;<a href="https://ozboware.co.uk">![website link](ww.png)</a>
-<br>
+[![twitter](https://user-images.githubusercontent.com/95859352/151281575-964fd906-97c4-478f-ae77-b523c5118c7e.png)](https://twitter.com/ozboware)
+[![showwcase](https://user-images.githubusercontent.com/95859352/151281694-4403a0f4-f7ab-429e-95eb-f681d001ad67.png)](https://www.showwcase.com/ozboware)
+[![dev](https://user-images.githubusercontent.com/95859352/151281739-2ba60423-e761-44ad-850b-6625e30dfa21.png)](https://dev.to/ozboware)
+[![ozboware](https://user-images.githubusercontent.com/95859352/151281781-99d8f6a8-9cd5-4818-82cd-ab77d3d87b37.png)](https://ozboware.co.uk)
 
 ### Posts
 - [One Way to Cheat Wordle using Javascript](https://ozboware.co.uk/one-way-to-cheat-wordle-using-javascript)
