@@ -24,12 +24,12 @@ PHP and Javascript developer
 
 **Javascript Roulette**
 
-[![Javascript Roulette link](https://res.cloudinary.com/practicaldev/image/fetch/s--5TI83wLR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wczd3640ejw96gmfumu6.png)](https://codepen.io/ozboware/pen/QWqEmgE)
+[![Javascript Roulette link](https://user-images.githubusercontent.com/95859352/151274901-cb85269e-3c50-4093-b06a-4ac0a6a6c507.png)](https://codepen.io/ozboware/pen/QWqEmgE)
 
 **Wordled**
 
-[![Javascript Wordled link](https://res.cloudinary.com/practicaldev/image/fetch/s--237ONCoC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uo600vi9hsj8o52a80pl.png)](https://codepen.io/ozboware/pen/QWOWyBZ)
+[![Javascript Wordled link]((https://user-images.githubusercontent.com/95859352/151274983-fa02b1e2-435c-4e05-acd2-20baf1f0e2d2.png)](https://codepen.io/ozboware/pen/QWOWyBZ)
 
 **Javascript Tic Tac Toe**
 
-[![Javascript Tic Tac Toe link](https://res.cloudinary.com/practicaldev/image/fetch/s--yxTscYl4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jr2jfagd5becbgru8v8z.png)](https://codepen.io/ozboware/pen/MWEYpXm)
+[![Javascript Tic Tac Toe link]((https://user-images.githubusercontent.com/95859352/151275079-c835261e-d38a-4fb1-8b6a-9db821796a62.png)](https://codepen.io/ozboware/pen/MWEYpXm)
