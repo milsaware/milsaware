@@ -14,6 +14,7 @@ PHP and Javascript developer
 - [One way to make Roulette using Javascript - Part 1](https://ozboware.co.uk/one-way-to-make-roulette-using-javascript-part-1)
 
 ### Repositories
+- [PHP GamePlayer](https://github.com/ozboware/php-gameplayer)
 - [Wordle Cheat](https://github.com/ozboware/wordles)
 - [Javascript Wordle](https://github.com/ozboware/wordled)
 - [Javascript Rock Paper Scissors](https://github.com/ozboware/javascript-rock-paper-scissors)
