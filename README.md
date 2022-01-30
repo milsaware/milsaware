@@ -15,6 +15,7 @@ PHP and Javascript developer
 
 ### Repositories
 - [PHP GamePlayer](https://github.com/ozboware/php-gameplayer)
+- [PHP Mortality Index UK](https://github.com/ozboware/php-mortality-index-uk)
 - [Wordle Cheat](https://github.com/ozboware/wordles)
 - [Javascript Wordle](https://github.com/ozboware/wordled)
 - [Javascript Rock Paper Scissors](https://github.com/ozboware/javascript-rock-paper-scissors)
