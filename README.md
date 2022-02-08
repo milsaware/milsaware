@@ -14,11 +14,11 @@ PHP and Javascript developer
 - [One way to make Roulette using Javascript - Part 1](https://ozboware.co.uk/one-way-to-make-roulette-using-javascript-part-1)
 
 ### Repositories
+- [Wordled](https://github.com/ozboware/wordled)
 - [PHP Community Social Media](https://github.com/ozboware/php-community-social-media)
 - [PHP GamePlayer](https://github.com/ozboware/php-gameplayer)
 - [PHP Mortality Index UK](https://github.com/ozboware/php-mortality-index-uk)
-- [Wordle Cheat](https://github.com/ozboware/wordles)
-- [Javascript Wordle](https://github.com/ozboware/wordled)
+- [Javascript Wordle Cheat](https://github.com/ozboware/wordles)
 - [Javascript Rock Paper Scissors](https://github.com/ozboware/javascript-rock-paper-scissors)
 - [Javascript Roulette](https://github.com/ozboware/javascript-roulette)
 - [Javascript Tic Tac Toe](https://github.com/ozboware/javascript-tic-tac-toe)
