@@ -37,6 +37,7 @@ PHP and Javascript developer
 ### Wordled Online
 
 [wordled.online](https://wordled.online)
+
 [![game board.png](https://project-assets.showwcase.com/16379/1643961294910-game%2520board.png)](https://wordled.online)
 
 ### Demos
