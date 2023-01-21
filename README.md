@@ -8,12 +8,6 @@ PHP and Javascript developer
 ### Posts
 - [How to make a basic Javascript Drum Machine](https://www.showwcase.com/show/15202/how-to-make-a-basic-javascript-drum-machine)
 - [Javascript Palindrome Checker](https://www.showwcase.com/show/15007/javascript-palindrome-checker)
-- [One Way to Cheat Wordle using Javascript](https://ozboware.co.uk/one-way-to-cheat-wordle-using-javascript)
-- [One Way to Make a Wordle Type Game using Javascript](https://ozboware.co.uk/one-way-to-make-a-wordle-type-game-using-javascript)
-- [One way to make Roulette using Javascript - Part 4](https://ozboware.co.uk/one-way-to-make-roulette-using-javascript-part-4)
-- [One way to make Roulette using Javascript - Part 3](https://ozboware.co.uk/one-way-to-make-roulette-using-javascript-part-3)
-- [One way to make Roulette using Javascript - Part 2](https://ozboware.co.uk/one-way-to-make-roulette-using-javascript-part-2)
-- [One way to make Roulette using Javascript - Part 1](https://ozboware.co.uk/one-way-to-make-roulette-using-javascript-part-1)
 
 ### Projects
 **Javascript**
@@ -33,12 +27,6 @@ PHP and Javascript developer
 - [PHP Community Social Media](https://github.com/ozboware/php-community-social-media)
 - [PHP GamePlayer](https://github.com/ozboware/php-gameplayer)
 - [PHP Mortality Index UK](https://github.com/ozboware/php-mortality-index-uk)
-
-### Wordled Online
-
-[wordled.online](https://wordled.online)
-
-[![game board.png](https://project-assets.showwcase.com/16379/1643961294910-game%2520board.png)](https://wordled.online)
 
 ### Demos
 
