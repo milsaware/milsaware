@@ -11,6 +11,7 @@ PHP and Javascript developer
 
 ### Projects
 **Javascript**
+- [Javascript AI Rock Paper scissors](https://github.com/ozboware/Javascript-AI-Rock-Paper-Scissors))
 - [Javascript Card Memory Game](https://github.com/ozboware/Javascript-Card-Memory-Game)
 - [Javascript Aces Up Solitaire](https://github.com/ozboware/Javascript-Aces-Up-Solitaire)
 - [Javascript Clock Patience Solitaire](https://github.com/ozboware/Javascript-Clock-Patience-Solitaire)
@@ -30,6 +31,10 @@ PHP and Javascript developer
 - [PHP Mortality Index UK](https://github.com/ozboware/php-mortality-index-uk)
 
 ### Demos
+
+**Javascript AI Rock Paper Scissors**
+
+[![Javascript AI Rock Paper Scissors link](https://user-images.githubusercontent.com/95859352/223076901-1cf1e33a-8489-4ee3-9704-4eee96a3d30b.png)](https://ozboware.github.io/Javascript-AI-Rock-Paper-Scissors/)
 
 **Javascript Card Memory Game**
 
