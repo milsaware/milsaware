@@ -6,6 +6,8 @@ PHP and Javascript developer
 [![twitter](https://user-images.githubusercontent.com/95859352/151281575-964fd906-97c4-478f-ae77-b523c5118c7e.png)](https://twitter.com/ozboware)
 
 ### Posts
+- [How to create a Rock Paper Scissors game using JavaScript and an AI opponent](https://www.showwcase.com/show/33780/how-to-create-a-rock-paper-scissors-game-using-javascript-and-an-ai-opponent)
+- [var, let and const in Javascript](https://www.showwcase.com/show/33723/var-let-and-const-in-javascript)
 - [How to make a basic Javascript Drum Machine](https://www.showwcase.com/show/15202/how-to-make-a-basic-javascript-drum-machine)
 - [Javascript Palindrome Checker](https://www.showwcase.com/show/15007/javascript-palindrome-checker)
 
