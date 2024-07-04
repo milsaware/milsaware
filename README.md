@@ -1,9 +1,7 @@
-PHP and Javascript developer
+C#, PHP, Javascript,  Kotlin App Developer
 
-[![milsaware](https://user-images.githubusercontent.com/95859352/151281781-99d8f6a8-9cd5-4818-82cd-ab77d3d87b37.png)](https://milsaware.co.uk)&nbsp;
 [![showwcase](https://user-images.githubusercontent.com/95859352/151281694-4403a0f4-f7ab-429e-95eb-f681d001ad67.png)](https://www.showwcase.com/milsaware)&nbsp;
-[![dev](https://user-images.githubusercontent.com/95859352/151281739-2ba60423-e761-44ad-850b-6625e30dfa21.png)](https://dev.to/milsaware)&nbsp;
-[![twitter](https://user-images.githubusercontent.com/95859352/151281575-964fd906-97c4-478f-ae77-b523c5118c7e.png)](https://twitter.com/milsaware)
+[![twitter](https://user-images.githubusercontent.com/95859352/151281575-964fd906-97c4-478f-ae77-b523c5118c7e.png)](https://x.com/milsaware)
 
 ### Posts
 - [Javascript: Operators - A Comprehensive Guide](https://www.showwcase.com/show/33824/javascript-operators)
