@@ -1,8 +1,5 @@
 C#, PHP, Javascript,  Kotlin App Developer
 
-[![showwcase](https://user-images.githubusercontent.com/95859352/151281694-4403a0f4-f7ab-429e-95eb-f681d001ad67.png)](https://www.showwcase.com/milsaware)&nbsp;
-[![twitter](https://user-images.githubusercontent.com/95859352/151281575-964fd906-97c4-478f-ae77-b523c5118c7e.png)](https://x.com/milsaware)
-
 ### Posts
 - [Javascript: Operators - A Comprehensive Guide](https://www.showwcase.com/show/33824/javascript-operators)
 - [Javascript: Conditional Statements](https://www.showwcase.com/show/33820/javascript-conditional-statements)
