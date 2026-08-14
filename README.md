@@ -15,8 +15,7 @@
 </p>
 
 <p align="center">
-  WAMP-DS is an all-in-one Windows development environment designed to make
-  building, testing and managing PHP applications easier.
+  WAMP-DS is a complete local development factory for building, testing and managing PHP applications - providing the infrastructure, runtimes and tools you need to turn an idea into a working project.
 </p>
 
 <p align="center">
