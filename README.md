@@ -20,7 +20,7 @@
 
 <p align="center">
   PHP &nbsp;•&nbsp; Apache &nbsp;•&nbsp; SSL Automation &nbsp;•&nbsp; MySQL &nbsp;•&nbsp; OpenSearch &nbsp;•&nbsp; Composer
-  &nbsp;•&nbsp; WordPress &nbsp;•&nbsp; Laravel &nbsp;•&nbsp; Magento
+  &nbsp;•&nbsp; WordPress &nbsp;•&nbsp; Laravel &nbsp;•&nbsp; CodeIgniter &nbsp;•&nbsp; Magento
 </p>
 
 <p align="center">
