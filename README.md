@@ -6,12 +6,16 @@
 
 ## 🚀 WAMP-DS
 
+<div align="center">
+  <img src="https://github.com/milsaware/WAMP-DS/blob/main/assets/WAMP-DS-logo.png" alt="WAMP-DS Logo" width="180">
+</div>
+
 <p align="center">
   <strong>A powerful local development factory for PHP developers.</strong>
 </p>
 
 <p align="center">
-  <strong>COMING SOON</strong>
+  <strong>FIRST PUBLIC ALPHA — v0.0.1</strong>
 </p>
 
 <p align="center">
@@ -21,6 +25,16 @@
 <p align="center">
   PHP &nbsp;•&nbsp; Apache &nbsp;•&nbsp; SSL Automation &nbsp;•&nbsp; MySQL &nbsp;•&nbsp; OpenSearch &nbsp;•&nbsp; Composer
   &nbsp;•&nbsp; WordPress &nbsp;•&nbsp; Laravel &nbsp;•&nbsp; CodeIgniter &nbsp;•&nbsp; Magento
+</p>
+
+<p align="center">
+  <a href="https://github.com/milsaware/WAMP-DS/releases/latest">
+    <strong>⬇️ Download WAMP-DS</strong>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/milsaware/WAMP-DS">
+    <strong>📖 Documentation</strong>
+  </a>
 </p>
 
 <p align="center">
