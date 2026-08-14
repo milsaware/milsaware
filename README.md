@@ -7,7 +7,7 @@
 ## 🚀 WAMP-DS
 
 <p align="center">
-  <strong>A powerful local development environment for PHP developers.</strong>
+  <strong>A powerful local development factory for PHP developers.</strong>
 </p>
 
 <p align="center">
